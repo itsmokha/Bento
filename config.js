@@ -32,7 +32,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'git-commit',
+      icon: 'terminal',
       link: 'https://github.com/',
     },
     {
@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '4',
       name: 'Youtube',
-      icon: 'video',
+      icon: 'tv',
       link: 'https://www.youtube.com/',
     },
     {
@@ -62,7 +62,7 @@ const CONFIG = {
     {
       id: '6',
       name: ' Twitter',
-      icon: 'twitter',
+      icon: 'home',
       link: 'https://twitter.com/home',
     },
   ],
@@ -83,8 +83,8 @@ const CONFIG = {
         link: 'https://mail.google.com',
       },
       {
-        name: 'Linkedin',
-        link: 'https://www.linkedin.com/feed/',
+        name: 'Email',
+        link: 'https://mail.itsmokha.com',
       },
       {
         name: 'Amazon',
@@ -97,7 +97,7 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Aniwave',
+        name: '',
         link: 'https://aniwave.to/home',
       },
       {
