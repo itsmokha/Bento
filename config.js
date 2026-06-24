@@ -32,7 +32,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Github',
-      icon: 'github',
+      icon: 'git-commit',
       link: 'https://github.com/',
     },
     {
@@ -50,7 +50,7 @@ const CONFIG = {
     {
       id: '4',
       name: 'Youtube',
-      icon: 'youtube',
+      icon: 'video',
       link: 'https://www.youtube.com/',
     },
     {
